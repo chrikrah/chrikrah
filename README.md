@@ -2,4 +2,4 @@ Hi 👋, I'm Chris, founder of [Plexito](https://plexito.de). Plexito builds cus
 
 By day I lead Technical Account Management for [UiPath](https://www.uipath.com) in DACH, where enterprises put AI agents into production. Before that, I helped scale Instacart and Delivery Hero.
 
-AI agents break in production, and I write about why. I also send fixes upstream to the agent, eval and LLM tooling I use.
+I send fixes upstream to the agent, eval and LLM tooling I use.
