@@ -1,0 +1,1 @@
+Hi 👋, I'm Chris. I lead Technical Account Managers at UiPath and build AI agents for enterprises in the DACH region. AI agents break in production, and I write about why. On the side I run [Plexito](https://plexito.de), send fixes to the open-source agent and LLM tooling I use every day, and build small products nobody asked for.
