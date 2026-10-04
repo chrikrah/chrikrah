@@ -1,1 +1,5 @@
-Hi 👋, I'm Chris. I lead Technical Account Managers at UiPath and build AI agents for enterprises in the DACH region. AI agents break in production, and I write about why. On the side I run [Plexito](https://plexito.de), send fixes to the open-source agent and LLM tooling I use every day, and build small products nobody asked for.
+Hi 👋, I'm Chris, founder of [Plexito](https://plexito.de). Plexito builds custom software, AI agents and workflow automations for businesses, and runs them afterwards: hosting, maintenance and support in one monthly price.
+
+By day I lead Technical Account Management for [UiPath](https://www.uipath.com) in DACH, where enterprises put AI agents into production. Before that, I helped scale Instacart and Delivery Hero.
+
+AI agents break in production, and I write about why. I also send fixes upstream to the agent, eval and LLM tooling I use.
