@@ -2,6 +2,8 @@
 
 By day I lead Technical Account Management for [UiPath](https://www.uipath.com) in DACH, where enterprises put AI agents into production. Before that, I brought [retailer APIs](https://docs.instacart.com/connect/) at Instacart from 0-1 and scaled Delivery Hero logistics 1-100.
 
+Building: [wiretruth](https://github.com/Plexito-de/wiretruth). Does your LLM telemetry tell the truth? It replays provider responses through instrumentation libraries and checks every token count, model and error they report against the wire. [Nightly report](https://plexito-de.github.io/wiretruth/).
+
 Latest essay: [The agent that approved itself](https://www.linkedin.com/pulse/agent-approved-itself-chris-krah-1f0bc). An agent wrote a human approval into its own output, so the gate has to live in the workflow, not in the prompt.
 
 Recent fixes upstream:
